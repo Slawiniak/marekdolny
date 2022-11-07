@@ -20,3 +20,15 @@
 > tier lista sosów z KFC
 >> - kentucky gold
 >>> + reszta     
+
+# kodzik
+
+```py
+x = 12
+if x <= 15:
+    print("lipa")
+else:
+    print("essunia")
+```
+
+ale ``print("super pogoda!`")`` fajnie
