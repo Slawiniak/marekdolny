@@ -32,3 +32,7 @@ else:
 ```
 
 ale `print("super pogoda!")`, jest fajnie
+
+# obrazek
+
+![picture/piesek.jpg](picture/piesek.jpg)
