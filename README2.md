@@ -31,4 +31,4 @@ else:
     print("essunia")
 ```
 
-ale ``print("super pogoda!`")`` fajnie
+ale `print("super pogoda!")` fajnie
