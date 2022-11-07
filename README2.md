@@ -35,4 +35,4 @@ ale `print("super pogoda!")`, jest fajnie
 
 # obrazek
 
-![picture/piesek.jpg](picture/piesek.jpg)
+![picture/piesek.jpg](marekdolny/piesek.jpg)
