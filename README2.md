@@ -19,4 +19,4 @@
 
 > tier lista sosów z KFC
 >> - kentucky gold
->> + reszta     
+>>> + reszta     
